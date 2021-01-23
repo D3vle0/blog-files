@@ -1,5 +1,5 @@
 ---
-title: "C언어 기초"
+title: "Basic C"
 date: 2021-01-24T00:48:37+09:00
 draft: false
 ---
