@@ -40,7 +40,7 @@ home = [ "HTML", "RSS", "JSON" ]
 
 [params]
 env = "production"
-description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+description = "Devleo's tech blog 🚀"
 author = "Devleo"
 defaultTheme = "auto"
 ShowShareButtons = true
