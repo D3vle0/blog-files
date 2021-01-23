@@ -125,7 +125,7 @@ fastboot 상태의 스마트폰이 잘 인식되는지 확인합니다. 만약 �
 
 ### 5.2.1 fastboot 에서 device가 잡히지 않는 오류
 
-![device-manager](/static/img/device-manager.png)
+![device-manager](https://cdn.discordapp.com/attachments/802579615268732958/802579787805360138/device-manager.png)
 
 "장치 관리자" 에서 "기타 장치" 를 클릭하면 안드로이드 기기 항목에 느낌표가 떠있을겁니다. 드라이버를 최신 상태로 업데이트 해주어야 하는데, [이곳에서 최신 드라이버를 다운받으세요](https://drive.google.com/file/d/11xcwy925qaYO0JPw8NXvA8DOEkbuNoT7/view?usp=sharing).
 
